@@ -1,5 +1,6 @@
 #!/bin/bash
 
+REPO_PATH="/home/deeper-think.github.io.ws"
 SOURCE_CODE="/home/deeper-think.github.io.ws/source_code"
 DEPLOY_FROM="/home/deeper-think.github.io.ws/source_code/_site"
 DEPLOY_TO="/usr/local/apache2/htdocs/"
@@ -23,6 +24,7 @@ then
     exit -1
 fi
 
+cd $REPO_PATH && /usr/bin/git pull 
 
 cd $SOURCE_CODE && $BUILD_EXE build  
 
