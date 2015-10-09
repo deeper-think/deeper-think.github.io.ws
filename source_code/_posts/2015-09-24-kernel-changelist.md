@@ -15,7 +15,7 @@ description:
 
 ## 2 ftcp-3.14.19 分支
 
-### 2.1 ftcp-3.14.19-10.x86_64.rpm（最新）
+### 2.1 ftcp-3.14.19-10.x86_64.rpm（最新）-- [安装包](http://172.16.1.131/kernel-hub/ftcp-3.14.19_update_v10.tar.gz)
 
 - 更新网卡MAC地址绑定脚本，修复一些BUG。
 
@@ -41,7 +41,7 @@ description:
 
 ## 3 mtcp-tos-2.6.37 分支
 
-### 3.1 mtcp-tos-2.6.37-52.x86_64.rpm
+### 3.1 mtcp-tos-2.6.37-52.x86_64.rpm（最新） -- [安装包](http://172.16.1.131/kernel-hub/tos_kernel_update_v52.tar.gz)
 
 - 安装脚本：
 
