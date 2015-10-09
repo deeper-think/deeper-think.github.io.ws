@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 内核：使用说明及版本Changelist
+title: 内核：Changelist及使用说明
 category: 内核组件
 tags: [徐超]
 keywords: 内核组件、changelist
