@@ -30,12 +30,12 @@ disqus:
   shortname: deeperthink
 
 # 主题设置，自动激活某个标签
-active: squid技术
+active: 内核组件
 
 # 首页除了最新文章外显示分类
-cates: 
+cates:
+  - 内核组件 
   - squid技术
-  - 案例分享
 
 # 中文本地化
 locals:
