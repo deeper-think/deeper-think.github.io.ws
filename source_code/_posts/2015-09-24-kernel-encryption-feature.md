@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 内核：传输加密功能
+title: 内核组件：传输加密功能
 category: 内核组件
-tags: [徐超]
+tags: [内核、传输加密]
 keywords: 内核、传输优化、传输加密
 description:
 ---

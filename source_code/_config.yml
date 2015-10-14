@@ -34,12 +34,10 @@ active: 内核组件
 
 # 首页除了最新文章外显示分类
 cates:
-  - 内核组件 
-  - squid技术
 
 # 中文本地化
 locals:
-  tags: authors
+  tags: 标签
   about: 关于
   newest: 最新文章
   archive: 归档记录
