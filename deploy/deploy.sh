@@ -3,8 +3,8 @@
 REPO_PATH="/home/deeper-think.github.io.ws"
 SOURCE_CODE="/home/deeper-think.github.io.ws/source_code"
 DEPLOY_FROM="/home/deeper-think.github.io.ws/source_code/_site"
-DEPLOY_TO="/usr/local/apache2/htdocs/"
-BUILD_EXE="/usr/local/rvm/gems/ruby-2.0.0-p643/bin/jekyll"
+DEPLOY_TO="/var/www/html/"
+BUILD_EXE="/usr/local/bin/jekyll"
 
 if [ ! -d "$DEPLOY_FROM" ]
 then 
